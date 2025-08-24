@@ -85,6 +85,11 @@ In a world of bloated text editors and overwhelming interfaces, **ScrollCraft** 
 *Easy on the eyes with professional light theme*
 <img width="1695" height="932" alt="light" src="https://github.com/user-attachments/assets/bbb84638-7728-492d-b275-8fada0a37c66" />
 
+### 💡 Distraction Free
+*Keep distractions away with a minimal interface*
+<img width="1695" height="932" alt="dfree" src="https://github.com/user-attachments/assets/0a62eb44-d159-40f5-b437-e37f1fb756db" />
+
+
 </div>
 
 ---
